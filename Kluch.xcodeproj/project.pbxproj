@@ -14,6 +14,19 @@
 		6E76E8DE2B7D085200D04732 /* KluchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8DD2B7D085200D04732 /* KluchTests.swift */; };
 		6E76E8E82B7D085200D04732 /* KluchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8E72B7D085200D04732 /* KluchUITests.swift */; };
 		6E76E8EA2B7D085200D04732 /* KluchUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8E92B7D085200D04732 /* KluchUITestsLaunchTests.swift */; };
+		6E76E8FA2B7D08B500D04732 /* WalletConnectV2SwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 6E76E8F92B7D08B500D04732 /* WalletConnectV2SwiftUI */; };
+		6E76E8FC2B7D094200D04732 /* KluchViewMosel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8FB2B7D094200D04732 /* KluchViewMosel.swift */; };
+		6E76E9072B7D120800D04732 /* DefaultBIP44Provider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8FE2B7D120800D04732 /* DefaultBIP44Provider.swift */; };
+		6E76E9082B7D120800D04732 /* AccountDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E8FF2B7D120800D04732 /* AccountDetails.swift */; };
+		6E76E9092B7D120800D04732 /* ActivityIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9002B7D120800D04732 /* ActivityIndicator.swift */; };
+		6E76E90A2B7D120800D04732 /* AlertPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9012B7D120800D04732 /* AlertPresenter.swift */; };
+		6E76E90B2B7D120800D04732 /* DefaultSocketFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9022B7D120800D04732 /* DefaultSocketFactory.swift */; };
+		6E76E90C2B7D120800D04732 /* DefaultSignerFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9032B7D120800D04732 /* DefaultSignerFactory.swift */; };
+		6E76E90D2B7D120800D04732 /* InputConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9042B7D120800D04732 /* InputConfig.swift */; };
+		6E76E90E2B7D120800D04732 /* DefaultCryptoProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9052B7D120800D04732 /* DefaultCryptoProvider.swift */; };
+		6E76E90F2B7D120800D04732 /* Extention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E76E9062B7D120800D04732 /* Extention.swift */; };
+		6E7E5DFC2B85BFB00095ABE4 /* SwiftMessages in Frameworks */ = {isa = PBXBuildFile; productRef = 6E7E5DFB2B85BFB00095ABE4 /* SwiftMessages */; };
+		6E7E5DFE2B85BFF00095ABE4 /* AlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7E5DFD2B85BFF00095ABE4 /* AlertView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +58,18 @@
 		6E76E8E32B7D085200D04732 /* KluchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KluchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E76E8E72B7D085200D04732 /* KluchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KluchUITests.swift; sourceTree = "<group>"; };
 		6E76E8E92B7D085200D04732 /* KluchUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KluchUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6E76E8F72B7D088200D04732 /* WalletConnectV2SwiftUI-main */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "WalletConnectV2SwiftUI-main"; path = "../../DossiPacket/WalletConnectV2SwiftUI-main"; sourceTree = "<group>"; };
+		6E76E8FB2B7D094200D04732 /* KluchViewMosel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KluchViewMosel.swift; sourceTree = "<group>"; };
+		6E76E8FE2B7D120800D04732 /* DefaultBIP44Provider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultBIP44Provider.swift; sourceTree = "<group>"; };
+		6E76E8FF2B7D120800D04732 /* AccountDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountDetails.swift; sourceTree = "<group>"; };
+		6E76E9002B7D120800D04732 /* ActivityIndicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityIndicator.swift; sourceTree = "<group>"; };
+		6E76E9012B7D120800D04732 /* AlertPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertPresenter.swift; sourceTree = "<group>"; };
+		6E76E9022B7D120800D04732 /* DefaultSocketFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultSocketFactory.swift; sourceTree = "<group>"; };
+		6E76E9032B7D120800D04732 /* DefaultSignerFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultSignerFactory.swift; sourceTree = "<group>"; };
+		6E76E9042B7D120800D04732 /* InputConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputConfig.swift; sourceTree = "<group>"; };
+		6E76E9052B7D120800D04732 /* DefaultCryptoProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultCryptoProvider.swift; sourceTree = "<group>"; };
+		6E76E9062B7D120800D04732 /* Extention.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extention.swift; sourceTree = "<group>"; };
+		6E7E5DFD2B85BFF00095ABE4 /* AlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +77,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E7E5DFC2B85BFB00095ABE4 /* SwiftMessages in Frameworks */,
+				6E76E8FA2B7D08B500D04732 /* WalletConnectV2SwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,10 +102,12 @@
 		6E76E8BF2B7D085100D04732 = {
 			isa = PBXGroup;
 			children = (
+				6E76E8F62B7D088200D04732 /* Packages */,
 				6E76E8CA2B7D085100D04732 /* Kluch */,
 				6E76E8DC2B7D085200D04732 /* KluchTests */,
 				6E76E8E62B7D085200D04732 /* KluchUITests */,
 				6E76E8C92B7D085100D04732 /* Products */,
+				6E76E8F82B7D08B500D04732 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +126,9 @@
 			children = (
 				6E76E8CB2B7D085100D04732 /* KluchApp.swift */,
 				6E76E8CD2B7D085100D04732 /* ContentView.swift */,
+				6E76E8FB2B7D094200D04732 /* KluchViewMosel.swift */,
+				6E7E5DFD2B85BFF00095ABE4 /* AlertView.swift */,
+				6E76E8FD2B7D120800D04732 /* Defaults */,
 				6E76E8CF2B7D085200D04732 /* Assets.xcassets */,
 				6E76E8D12B7D085200D04732 /* Kluch.entitlements */,
 				6E76E8D22B7D085200D04732 /* Preview Content */,
@@ -129,6 +161,37 @@
 			path = KluchUITests;
 			sourceTree = "<group>";
 		};
+		6E76E8F62B7D088200D04732 /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				6E76E8F72B7D088200D04732 /* WalletConnectV2SwiftUI-main */,
+			);
+			name = Packages;
+			sourceTree = "<group>";
+		};
+		6E76E8F82B7D08B500D04732 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6E76E8FD2B7D120800D04732 /* Defaults */ = {
+			isa = PBXGroup;
+			children = (
+				6E76E8FE2B7D120800D04732 /* DefaultBIP44Provider.swift */,
+				6E76E8FF2B7D120800D04732 /* AccountDetails.swift */,
+				6E76E9002B7D120800D04732 /* ActivityIndicator.swift */,
+				6E76E9012B7D120800D04732 /* AlertPresenter.swift */,
+				6E76E9022B7D120800D04732 /* DefaultSocketFactory.swift */,
+				6E76E9032B7D120800D04732 /* DefaultSignerFactory.swift */,
+				6E76E9042B7D120800D04732 /* InputConfig.swift */,
+				6E76E9052B7D120800D04732 /* DefaultCryptoProvider.swift */,
+				6E76E9062B7D120800D04732 /* Extention.swift */,
+			);
+			path = Defaults;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -145,6 +208,10 @@
 			dependencies = (
 			);
 			name = Kluch;
+			packageProductDependencies = (
+				6E76E8F92B7D08B500D04732 /* WalletConnectV2SwiftUI */,
+				6E7E5DFB2B85BFB00095ABE4 /* SwiftMessages */,
+			);
 			productName = Kluch;
 			productReference = 6E76E8C82B7D085100D04732 /* Kluch.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +284,9 @@
 				Base,
 			);
 			mainGroup = 6E76E8BF2B7D085100D04732;
+			packageReferences = (
+				6E7E5DFA2B85BFB00095ABE4 /* XCRemoteSwiftPackageReference "SwiftMessages" */,
+			);
 			productRefGroup = 6E76E8C92B7D085100D04732 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -259,8 +329,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E76E90E2B7D120800D04732 /* DefaultCryptoProvider.swift in Sources */,
+				6E76E90D2B7D120800D04732 /* InputConfig.swift in Sources */,
+				6E76E9072B7D120800D04732 /* DefaultBIP44Provider.swift in Sources */,
+				6E76E90A2B7D120800D04732 /* AlertPresenter.swift in Sources */,
+				6E76E90F2B7D120800D04732 /* Extention.swift in Sources */,
+				6E76E9082B7D120800D04732 /* AccountDetails.swift in Sources */,
+				6E76E90B2B7D120800D04732 /* DefaultSocketFactory.swift in Sources */,
 				6E76E8CE2B7D085100D04732 /* ContentView.swift in Sources */,
+				6E7E5DFE2B85BFF00095ABE4 /* AlertView.swift in Sources */,
+				6E76E90C2B7D120800D04732 /* DefaultSignerFactory.swift in Sources */,
 				6E76E8CC2B7D085100D04732 /* KluchApp.swift in Sources */,
+				6E76E9092B7D120800D04732 /* ActivityIndicator.swift in Sources */,
+				6E76E8FC2B7D094200D04732 /* KluchViewMosel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,7 +510,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
@@ -467,7 +548,7 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 13.3;
@@ -612,6 +693,29 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6E7E5DFA2B85BFB00095ABE4 /* XCRemoteSwiftPackageReference "SwiftMessages" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftKickMobile/SwiftMessages.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6E76E8F92B7D08B500D04732 /* WalletConnectV2SwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = WalletConnectV2SwiftUI;
+		};
+		6E7E5DFB2B85BFB00095ABE4 /* SwiftMessages */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6E7E5DFA2B85BFB00095ABE4 /* XCRemoteSwiftPackageReference "SwiftMessages" */;
+			productName = SwiftMessages;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 6E76E8C02B7D085100D04732 /* Project object */;
 }

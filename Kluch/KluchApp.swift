@@ -9,6 +9,10 @@ import SwiftUI
 
 @main
 struct KluchApp: App {
+    
+    
+    init(){ UITextField.appearance().backgroundColor = UIColor.clear }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
